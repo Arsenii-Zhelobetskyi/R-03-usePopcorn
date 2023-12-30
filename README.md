@@ -1,8 +1,8 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/fbfaac13-fd87-425f-adc0-c8c54cfdc344/deploy-status)](https://app.netlify.com/sites/usepopcorn-online-cinema/deploys)
 <h1 align="center">🍿usePopcorn🍿</h1>
 <h3 align="center">🎦Simple app to view info about movies and series🎞️</h3>
+<h3 align="center">App was created during the Jonas Schmedtmann react course ⚛️</h3>
 
-## App was created during the Jonas Schmedtmann react course ⚛️.
 ## ▶️Demonstration:
 ![image](https://drive.google.com/uc?export=download&id=1JpCSnWSWt9WvIm2r1Io7pt3F8JbJgx04)
 ## 🚀This app is example of how to use:
