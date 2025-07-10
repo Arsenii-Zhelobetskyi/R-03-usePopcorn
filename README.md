@@ -18,6 +18,5 @@
 
 [![my_button](https://img.shields.io/badge/click_me-37a779?style=for-the-badge)](https://usepopcorn-online-cinema.netlify.app/)
 
-[![my_button](https://img.shields.io/badge/🟦🟨-37a779?style=for-the-badge)](https://www.youtube.com/watch?v=G510jeWiaV0)
 
 </div>
